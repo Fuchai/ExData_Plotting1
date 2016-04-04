@@ -1,4 +1,6 @@
-## Introduction
+Place household_power_consumption.txt in root folder.
+
+## Introduction from dpeng/ExData_Plotting1
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
